@@ -1,0 +1,26 @@
+html{
+  line-height: 18px;
+}
+h1{
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+p{
+  font-style: sans-serif;
+  font-size: 20px;
+}
+
+ul{
+font-size: 18px;
+font-weight: bold;
+}
+
+ol{
+  font-size: 18px;
+  font-weight: bold;
+}
